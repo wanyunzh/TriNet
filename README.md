@@ -101,3 +101,7 @@ All codes and data are placed in the TriNet-Reproducing.zip file. This file need
 Any questions, problems, bugs are welcome and should be dumped to
 
 wanyunzh@gmail.com
+
+# TriNet
+[![DOI](https://zenodo.org/badge/517402277.svg)](https://zenodo.org/badge/latestdoi/517402277)
+
